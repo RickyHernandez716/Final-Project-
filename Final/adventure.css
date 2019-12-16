@@ -1,0 +1,33 @@
+
+body {
+	background-color: yellow;
+}
+
+header{
+	background-color: green;
+}
+
+h1 {
+	text-align: left;
+	color: black;
+}
+
+h2{
+	text-align: left;
+	color: black;
+}
+
+h3 {
+	text-align: left;
+	color: black;
+}
+
+p {
+	text-align: left;
+	color: black;
+}
+
+a {
+	text-align: left;
+	color: black;
+}
